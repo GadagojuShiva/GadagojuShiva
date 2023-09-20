@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
    - Successfully led a project to migrate an on-premises application to the AWS cloud.
    - Modernized, scaled, and optimized costs during the migration.
    - Utilized AWS services such as EC2, ELB, S3, Route 53, IAM, and CloudFormation.
+   - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-LIFT-AND-SHIFT-PROJECT)
 
 2. **Secure VPC Setup with EC2 Instances:**
    - Designed and configured a VPC with custom IP ranges.
