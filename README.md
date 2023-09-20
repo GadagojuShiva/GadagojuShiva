@@ -1,29 +1,53 @@
 # Gadagoju Shiva - AWS DevOps Enthusiast
 
-Welcome to my GitHub profile! I'm Gadagoju Shiva, a DevOps enthusiast with a strong focus on cloud technologies, particularly AWS. I hold the AWS Certified Cloud Practitioner certification, demonstrating my foundation in cloud concepts and AWS services.
+Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthusiast with a strong focus on cloud technologies. I hold the AWS Certified Cloud Practitioner certification, demonstrating my foundation in cloud concepts and AWS services. Over time, I've expanded my knowledge and skills through hands-on projects and learning experiences.
 
 ## AWS Certification
 
 - **AWS Certified Cloud Practitioner**
   - AWS Credential Verification: [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
-## Relevant Project: Lift & Shift to AWS Cloud Computing
+## Relevant Projects and Skills from My 30-Day AWS Course
 
-As part of a Udemy course, I successfully led a comprehensive project to migrate an on-premises application to the AWS cloud, aiming to modernize, scale, and optimize costs.
+I recently completed a comprehensive 30-day AWS course that included various hands-on projects and learning opportunities. Here are some of the key projects and skills I acquired during the course:
 
-### Key Contributions:
+### Projects:
 
-- Assessed on-premises setup and devised a strategic migration plan.
-- Established a robust AWS cloud environment including VPC, subnets, and security groups.
-- Deployed EC2 instances mirroring on-premises servers, ensuring performance and compatibility.
-- Utilized AWS Elastic Load Balancer (ELB) and Auto Scaling for high availability.
-- Transferred on-premises data to Amazon S3, maintaining data integrity and accessibility.
-- Implemented Route 53 for DNS management and traffic routing.
-- Enhanced security using AWS Identity and Access Management (IAM).
-- Streamlined provisioning and configuration using AWS CloudFormation and CLI.
-- Conducted rigorous testing and optimization to ensure a seamless transition with minimal downtime.
+1. **Lift & Shift to AWS Cloud Computing:**
+   - Successfully led a project to migrate an on-premises application to the AWS cloud.
+   - Modernized, scaled, and optimized costs during the migration.
+   - Utilized AWS services such as EC2, ELB, S3, Route 53, IAM, and CloudFormation.
 
-**Technologies Used:** AWS (EC2, ELB, Auto Scaling, S3, Route 53, IAM), AWS CloudFormation, AWS CLI, Networking, Security, Migration, Testing, Documentation.
+2. **Secure VPC Setup with EC2 Instances:**
+   - Designed and configured a VPC with custom IP ranges.
+   - Set up public and private subnets, route tables, and associations.
+   - Implemented network security using network access control lists (ACLs) and security groups.
+   - Provisioned EC2 instances and assigned IAM roles.
+
+3. **AWS CodeCommit Configuration:**
+   - Configured a Git repository in AWS CodeCommit.
+   - Collaborated with team members and managed version control.
+
+4. **AWS CodePipeline for CI/CD:**
+   - Created a CI/CD pipeline using AWS CodePipeline for application deployment.
+   - Integrated source code, build, and deployment stages.
+
+5. **AWS Elastic Load Balancer (ELB) Configuration:**
+   - Configured an Elastic Load Balancer for an application.
+   - Defined target groups and observed load balancing behavior.
+
+### Skills:
+
+- **Infrastructure as Code (IaC):**
+  - Proficient in creating infrastructure using Terraform.
+  
+- **Cloud Migration Strategies:**
+  - Familiar with AWS cloud migration strategies and tools.
+  
+- **AWS RDS:**
+  - Experience in working with AWS RDS.
+
+This 30-day course has equipped me with practical skills and knowledge in AWS services, DevOps practices, and cloud infrastructure management.
 
 ## Get in Touch
 
