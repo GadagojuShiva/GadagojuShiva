@@ -7,10 +7,6 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
 - **AWS Certified Cloud Practitioner**
   - AWS Credential Verification: [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
-## Relevant Projects and Skills from My 30-Day AWS Course
-
-I recently completed a comprehensive 30-day AWS course that included various hands-on projects and learning opportunities. Here are some of the key projects and skills I acquired during the course:
-
 ### Projects:
 
 1. **Lift & Shift to AWS Cloud Computing:**
@@ -46,8 +42,6 @@ I recently completed a comprehensive 30-day AWS course that included various han
   
 - **AWS RDS:**
   - Experience in working with AWS RDS.
-
-This 30-day course has equipped me with practical skills and knowledge in AWS services, DevOps practices, and cloud infrastructure management.
 
 ## Get in Touch
 
