@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
    - Set up public and private subnets, route tables, and associations.
    - Implemented network security using network access control lists (ACLs) and security groups.
    - Provisioned EC2 instances and assigned IAM roles.
+   - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_VPC_with_servers_in_private_subnets_NAT)
 
 3. **AWS CodeCommit Configuration:**
    - Configured a Git repository in AWS CodeCommit.
