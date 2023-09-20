@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
 - **AWS Certified Cloud Practitioner**
   - AWS Credential Verification: [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
   
-## I've had the opportunity to work on several exciting projects that showcase my expertise in AWS and DevOps practices. Here are some of the key projects I've been involved in:
+### I've had the opportunity to work on several exciting projects that showcase my expertise in AWS and DevOps practices. Here are some of the key projects I've been involved in:
 
 ### Projects:
 
@@ -33,17 +33,17 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
 6. **AWS CI/CD Pipeline for Python App:**
    - Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.
    - Resulted in streamlined development, testing, and deployment on EC2 instances, enhancing development efficiency and code reliability.
-   - [GitHub Repository]([https://github.com/yourrepositorylink](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects))
+   - [GitHub Repository](https://github.com/yourrepositorylink](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects))
 
 7. **AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots:**
    - Developed an AWS Lambda function to automate the identification and removal of redundant EBS snapshots.
    - Led to substantial cost savings through efficient resource management.
-   - [GitHub Repository]([https://github.com/yourrepositorylink](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions))
+   - [GitHub Repository](https://github.com/yourrepositorylink](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions))
 
 ### Skills:
 
 - **Infrastructure as Code (IaC):**
-  - Proficient in creating infrastructure using Terraform.
+  - Proficient in creating infrastructure using Cloud Formation.
   
 - **Cloud Migration Strategies:**
   - Familiar with AWS cloud migration strategies and tools.
