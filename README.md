@@ -33,12 +33,12 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
 6. **AWS CI/CD Pipeline for Python App:**
    - Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.
    - Resulted in streamlined development, testing, and deployment on EC2 instances, enhancing development efficiency and code reliability.
-   - [GitHub Repository](https://github.com/yourrepositorylink](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects))
+   - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects)
 
 7. **AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots:**
    - Developed an AWS Lambda function to automate the identification and removal of redundant EBS snapshots.
    - Led to substantial cost savings through efficient resource management.
-   - [GitHub Repository](https://github.com/yourrepositorylink](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions))
+   - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions)
 
 ### Skills:
 
