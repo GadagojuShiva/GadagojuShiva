@@ -26,21 +26,13 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
    - Implemented network security using network access control lists (ACLs) and security groups.
    - Provisioned EC2 instances and assigned IAM roles.
    - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_VPC_with_servers_in_private_subnets_NAT)
-
-3. **AWS CodeCommit Configuration:**
-   - Configured a Git repository in AWS CodeCommit.
-   - Collaborated with team members and managed version control.
-
-5. **AWS Elastic Load Balancer (ELB) Configuration:**
-   - Configured an Elastic Load Balancer for an application.
-   - Defined target groups and observed load balancing behavior.
   
-6. **AWS CI/CD Pipeline for Python App:**
+3. **AWS CI/CD Pipeline for Python App:**
    - Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.
    - Resulted in streamlined development, testing, and deployment on EC2 instances, enhancing development efficiency and code reliability.
    - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects)
 
-8. **AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots:**
+4. **AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots:**
    - Developed an AWS Lambda function to automate the identification and removal of redundant EBS snapshots.
    - Led to substantial cost savings through efficient resource management.
    - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions)
