@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthus
 
 ## AWS Certification
 
-- **AWS Certified Cloud Practitioner**
-  - AWS Credential Verification: [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 - **AWS Certified Solutions Architect - Associate**
   - AWS Credential Verification: [Verify](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
+- **AWS Certified Cloud Practitioner**
+  - AWS Credential Verification: [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
 ### I've had the opportunity to work on several exciting projects that showcase my expertise in AWS and DevOps practices. Here are some of the key projects I've been involved in:
 
