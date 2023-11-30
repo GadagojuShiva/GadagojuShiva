@@ -1,7 +1,8 @@
 # Gadagoju Shiva - AWS DevOps Enthusiast
 
 Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthusiast with a strong focus on cloud technologies. I hold the AWS Certified Cloud Practitioner certification, demonstrating my foundation in cloud concepts and AWS services. Over time, I've expanded my knowledge and skills through hands-on projects and learning experiences.
-
+## Intro
+![alt text](intro.gif)
 ## AWS Certification
 
 - **AWS Certified Solutions Architect - Associate**
