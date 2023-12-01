@@ -36,21 +36,56 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
    - Developed an AWS Lambda function to automate the identification and removal of redundant EBS snapshots.
    - Led to substantial cost savings through efficient resource management.
    - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions)
+    
 5. **Serverless API with AWS Lambda, DynamoDB, and API Gateway**
    - Designed and implemented a serverless API utilizing AWS Lambda, DynamoDB, and API Gateway for seamless data management. The API supports         various DynamoDB operations, allowing for CRUD functionalities and includes comprehensive testing methods.
    - [GitHub Repository](https://github.com/GadagojuShiva/aws-serverless-dynamodb-api)
 
 ### Skills:
 
-- **Infrastructure as Code (IaC):**
-  - Proficient in creating infrastructure using Cloud Formation.
+- **AWS Cloud:**
+  - **Compute Services:**
+      - EC2 (Elastic Compute Cloud)
+      - AWS Lambda
+      - EKS (Elastic Kubernetes Service)
+      - ECS (Elastic Container Service)
+  - **Storage Services:**
+      - S3 (Simple Storage Service)
+  - **Networking Services:**
+      - VPC (Virtual Private Cloud)
+      - ELB (Elastic Load Balancing)
+      - Route 53
+  - **Identity and Access Management:**
+      - IAM (Identity and Access Management)
+  - **Infrastructure as Code (IaC):**
+      - AWS CloudFormation
+  - **Database Services:**
+      - RDS (Relational Database Service)
+  - **Monitoring and Logging:**
+      - CloudWatch
+  - **Containerization and Orchestration:**
+      - Docker
+      - Kubernetes
+  - **DevOps Tools:**
+      - CodeCommit
+      - CodePipeline
+      - CodeBuild
+      - CodeDeploy
+  - **Security:**
+      - Security Groups
+      - IAM Policies
+  - **AI/ML and Natural Language Processing:**
+      - Amazon Lex
+      - Amazon Polly
+      - Amazon Transcribe
+  - **Document Processing:**
+      - Amazon Textract
+  - **Other Services:**
+      - API Gateway
+      - AWS Auto Scaling
+      - AWS EBS (Elastic Block Store)
+      - VPN (Virtual Private Network)
   
-- **Cloud Migration Strategies:**
-  - Familiar with AWS cloud migration strategies and tools.
-  
-- **AWS RDS:**
-  - Experience in working with AWS RDS.
-
 ## Get in Touch
 
 I'm passionate about cloud technologies and DevOps practices. Let's connect and explore opportunities to collaborate on innovative projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shiva-gadagoju/) or drop me an email at gadagojushiva00@gmail.com.
