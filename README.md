@@ -85,7 +85,12 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
       - AWS Auto Scaling
       - AWS EBS (Elastic Block Store)
       - VPN (Virtual Private Network)
-  
+- **Programming Languages**
+  - Foundational Knowledge of Python
+- **Query language**
+  - MySQL
+- **Web Devlopement**
+  - Basics of HTML and CSS  
 ## Get in Touch
 
 I'm passionate about cloud technologies and DevOps practices. Let's connect and explore opportunities to collaborate on innovative projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shiva-gadagoju/) or drop me an email at gadagojushiva00@gmail.com.
