@@ -1,6 +1,6 @@
 # Gadagoju Shiva - AWS Cloud Architect | Specialized in CI/CD and Migration Strategies
 
-Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes, and Python development. Let's connect and turn tech ideas into reality! 🚀
+Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes, and Python development.
 ## Teaser
 ![Teaser](./teaser.gif)
 ## AWS Certification
