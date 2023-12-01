@@ -36,6 +36,9 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
    - Developed an AWS Lambda function to automate the identification and removal of redundant EBS snapshots.
    - Led to substantial cost savings through efficient resource management.
    - [GitHub Repository](https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions)
+5. **Serverless API with AWS Lambda, DynamoDB, and API Gateway**
+   - Designed and implemented a serverless API utilizing AWS Lambda, DynamoDB, and API Gateway for seamless data management. The API supports         various DynamoDB operations, allowing for CRUD functionalities and includes comprehensive testing methods.
+   - [GitHub Repository](https://github.com/GadagojuShiva/aws-serverless-dynamodb-api)
 
 ### Skills:
 
