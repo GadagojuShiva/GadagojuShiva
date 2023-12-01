@@ -1,6 +1,6 @@
 # Gadagoju Shiva - AWS Cloud Architect | Specialized in CI/CD and Migration Strategies
 
-Welcome to my GitHub profile! I'm Gadagoju Shiva, a passionate AWS DevOps enthusiast with a strong focus on cloud technologies. I hold the AWS Certified Cloud Practitioner certification, demonstrating my foundation in cloud concepts and AWS services. Over time, I've expanded my knowledge and skills through hands-on projects and learning experiences.
+Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes, and Python development. Let's connect and turn tech ideas into reality! 🚀
 ## Teaser
 ![Teaser](./teaser.gif)
 ## AWS Certification
