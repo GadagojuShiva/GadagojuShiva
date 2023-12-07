@@ -93,7 +93,7 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
   </ol>
 </details>
 
-### Skills:
+## Skills:
 
 - **AWS Cloud:**
   - **Compute Services:**
@@ -147,12 +147,14 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
 ## Get in Touch
 
 - I'm passionate about cloud technologies and DevOps practices. Let's connect and explore opportunities to collaborate on innovative projects. Feel free to reach out to me: 
-   [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-gadagoju/) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadagojushiva00@gmail.com)
+  <br>
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-gadagoju/) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadagojushiva00@gmail.com)
 
 
 
 ## Online Portfolio:
 - Explore more about my projects and skills on my website:
+  <br>
   [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-000000?style=for-the-badge&logo=google-chrome&logoColor=yellow&colorA=000000&colorB=FFD700)](https://dummyme.xyz/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
