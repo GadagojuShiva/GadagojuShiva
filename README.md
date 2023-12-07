@@ -23,8 +23,10 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
 <details>
   <summary><strong>AWS Cloud Resume Challenge</strong></summary>
   <ol>
+    <ul>
     <li>Developed a professional resume website using AWS, featuring a dynamic visitor counter, HTTPS security, and automated CI/CD pipelines with GitHub Actions.</li>
     <li><a href="https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github">GitHub Repository</a></li>
+    <ul>
   </ol>
 </details>
 
