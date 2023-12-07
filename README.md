@@ -18,7 +18,7 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
 
 <!-- projects -->
 <!-- [![github][github-shield]][github-url] -->
-### Projects:
+## Projects:
 
 <details>
   <summary><strong>AWS Cloud Resume Challenge</strong></summary>
