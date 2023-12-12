@@ -3,7 +3,7 @@
 
 ## <p align="center">Gadagoju Shiva</p>
 
-- Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes.
+Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes.
 ## Credentials Showcase
 ![Teaser](./teaser.gif)
 ## AWS Certification
