@@ -3,7 +3,7 @@
 
 ## <p align="center">Gadagoju Shiva</p>
 
-Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes.
+- Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes.
 ## Credentials Showcase
 ![Teaser](./teaser.gif)
 ## AWS Certification
@@ -19,7 +19,7 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
 <!-- [![github][github-shield]][github-url] -->
 ## Projects:
 
-<details>
+- <details>
   <summary><strong>AWS Cloud Resume Challenge</strong></summary>
   <ol>
     <ul>
@@ -29,7 +29,7 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
   </ol>
 </details>
 
-<details>
+- <details>
   <summary><strong>Lift & Shift to AWS Cloud Computing</strong></summary>
   <ol>
       <ul>
@@ -40,7 +40,8 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
       </ul>
   </ol>
 </details>
-<details>
+
+- <details>
   <summary><strong>Secure VPC Setup with EC2 Instances</strong></summary>
   <ol>
       <ul>
@@ -52,7 +53,8 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
       </ul>
   </ol>
 </details>
-<details>
+
+- <details>
   <summary><strong>AWS CI/CD Pipeline for Python App</strong></summary>
   <ol>
       <ul>
@@ -62,7 +64,8 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
       </ul>
   </ol>
 </details>
-<details>
+
+- <details>
   <summary><strong>AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots</strong></summary>
   <ol>
       <ul>
@@ -72,9 +75,10 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
       </ul>
   </ol>
 </details>
-<details>
+
+- <details>
   <summary><strong>Serverless API with AWS Lambda, DynamoDB, and API Gateway
-</strong></summary>
+  </strong></summary>
   <ol>
       <ul>
         <li>Designed and implemented a serverless API utilizing AWS Lambda, DynamoDB, and API Gateway for seamless data management. The API supports various DynamoDB operations, allowing for CRUD functionalities and includes comprehensive testing methods.</li>
@@ -83,9 +87,9 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
   </ol>
 </details>
 
-<details>
+- <details>
   <summary><strong>AWS Resource Tracking Project
-</strong></summary>
+  </strong></summary>
   <ol>
       <ul>
         <li>This project is a simple Bash script to track resources in an AWS account. It lists information about EC2 instances, S3 buckets, Lambda functions, and IAM users.</li>
@@ -97,15 +101,15 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
 ## Skills:
 
 - **Cloud Technologies:**
-  - [ ] AWS
+  - [x] AWS
 - **DevOps and Automation:**
-  - [ ] Jenkins
-  - [ ] Terraform
-  - [ ] Ansible
+  - [x] Jenkins
+  - [x] Terraform
+  - [x] Ansible
 - **Programming Languages**
-  - [ ] Foundational Knowledge of Python (Basics)
+  - [x] Foundational Knowledge of Python (Basics)
 - **Query language**
-  - [ ] Basics of MySQL
+  - [x] Basics of MySQL
 - **Web Devlopement**
   - [ ] Basics of HTML and CSS  
 
