@@ -1,11 +1,10 @@
 <!--CERTS SHIELDS -->
 [![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/cloud-practitioner/) [![LinkedIn][linkedin-shield]][linkedin-url]
- 
 
-## Gadagoju Shiva - AWS Certified Solutions Architect Associate | AWS Certified Cloud Practitioner | Specialized in CI/CD, Migration and Disaster Recovery Strategies
+## <p align="center">Gadagoju Shiva</p>
 
-Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes, and Python development.
-## Teaser
+Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes.
+## Credentials Showcase
 ![Teaser](./teaser.gif)
 ## AWS Certification
 
@@ -25,7 +24,7 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
   <ol>
     <ul>
     <li>Developed a professional resume website using AWS, featuring a dynamic visitor counter, HTTPS security, and automated CI/CD pipelines with GitHub Actions.</li>
-    <li><a href="https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github">GitHub Repository</a></li>
+    <li><a href="https://github.com/GadagojuShiva/aws_cloud_resume_challenge">GitHub Repository</a></li>
     <ul>
   </ol>
 </details>
@@ -97,52 +96,16 @@ Hey there! 👋 I'm Gadagoju Shiva, an AWS Certified Solutions Architect Associa
 
 ## Skills:
 
-- **AWS Cloud:**
-  - **Compute Services:**
-      - [ ] EC2 (Elastic Compute Cloud)
-      - [ ] AWS Lambda
-      - [ ] EKS (Elastic Kubernetes Service)
-      - [ ] ECS (Elastic Container Service)
-  - **Storage Services:**
-      - [ ] S3 (Simple Storage Service)
-  - **Networking Services:**
-      - [ ] VPC (Virtual Private Cloud)
-      - [ ] ELB (Elastic Load Balancing)
-      - [ ] Route 53
-  - **Identity and Access Management:**
-      - [ ] IAM (Identity and Access Management)
-  - **Infrastructure as Code (IaC):**
-      - [ ] AWS CloudFormation
-  - **Database Services:**
-      - [ ] RDS (Relational Database Service)
-  - **Monitoring and Logging:**
-      - [ ] CloudWatch
-  - **Containerization and Orchestration:**
-      - [ ] Docker
-      - [ ] Kubernetes
-  - **DevOps Tools:**
-      - [ ] CodeCommit
-      - [ ] CodePipeline
-      - [ ] CodeBuild
-      - [ ] CodeDeploy
-  - **Security:**
-      - [ ] Security Groups
-      - [ ] IAM Policies
-  - **AI/ML and Natural Language Processing:**
-      - [ ] Amazon Lex
-      - [ ] Amazon Polly
-      - [ ] Amazon Transcribe
-  - **Document Processing:**
-      - [ ] Amazon Textract
-  - **Other Services:**
-      - [ ] API Gateway
-      - [ ] AWS Auto Scaling
-      - [ ] AWS EBS (Elastic Block Store)
-      - [ ] VPN (Virtual Private Network)
+- **Cloud Technologies:**
+  - [ ] AWS
+- **DevOps and Automation:**
+  - [ ] Jenkins
+  - [ ] Terraform
+  - [ ] Ansible
 - **Programming Languages**
-  - [ ] Foundational Knowledge of Python
+  - [ ] Foundational Knowledge of Python (Basics)
 - **Query language**
-  - [ ] MySQL
+  - [ ] Basics of MySQL
 - **Web Devlopement**
   - [ ] Basics of HTML and CSS  
 
