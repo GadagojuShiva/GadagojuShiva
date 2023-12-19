@@ -43,7 +43,7 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
   <summary><strong>Lift & Shift to AWS Cloud Computing</strong></summary>
   <ol>
       <ul>
-        <li>Successfully led a project to migrate an on-premises application to the AWS cloud.</a></li>
+        <li>Successfully completed a project to migrate an on-premises application to the AWS cloud.</a></li>
         <li>Modernized, scaled, and optimized costs during the migration.</a></li>
         <li>Utilized AWS services such as EC2, ELB, S3, Route 53, IAM, and CloudFormation.</a></li>
         <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-LIFT-AND-SHIFT-PROJECT">GitHub Repository</a></li>
