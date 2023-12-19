@@ -20,6 +20,15 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
 ## Projects:
 
 - <details>
+  <summary><strong>Containerization Django Application</strong></summary>
+  <ol>
+    <ul>
+    <li>Containerized a Python Django web app with Docker, ensuring streamlined deploymentand scalability while maintaining consistency across development, testing, and productionenvironments.</li>
+    <li><a href="https://github.com/GadagojuShiva/todo-application">GitHub Repository</a></li>
+    <ul>
+  </ol>
+</details>
+- <details>
   <summary><strong>AWS Cloud Resume Challenge</strong></summary>
   <ol>
     <ul>
