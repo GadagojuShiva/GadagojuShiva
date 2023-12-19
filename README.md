@@ -106,6 +106,7 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
   - [x] Jenkins
   - [x] Terraform
   - [x] Ansible
+  - [x] Docker
 - **Programming Languages**
   - [x] Foundational Knowledge of Python (Basics)
 - **Query language**
