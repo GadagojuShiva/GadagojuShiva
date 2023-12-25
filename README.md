@@ -20,6 +20,17 @@ Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion
 ## Projects:
 
 - <details>
+  <summary><strong>Containerization and Orchestration: NGINX Deployment</strong></summary>
+  <ol>
+    <ul>
+    <li>Implemented NGINX web server deployment on Kubernetes with 2 replicas.</li>
+    <li>Employed labels and selectors for efficient deployment management.</li>
+    <li><a href="https://github.com/GadagojuShiva/kubernetes-examples">GitHub Repository</a></li>
+    <ul>
+  </ol>
+  </details>
+  
+- <details>
   <summary><strong>Containerization Django Application</strong></summary>
   <ol>
     <ul>
