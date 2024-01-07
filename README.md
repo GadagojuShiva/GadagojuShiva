@@ -3,7 +3,7 @@
 
 ## <p align="center">Gadagoju Shiva</p>
 
-Hey there! 👋 am an AWS Certified Solutions Architect Associate with a passion for making cloud tech work seamlessly. From creating scalable solutions to perfecting coding pipelines, I'm on a journey of hands-on exploration. My expertise spans AWS services, containerization using Docker and Kubernetes.
+Hello! My name is Gafagojug Hisv. I'm a recent graduate from 2022, and I specialize in DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
 ## Credentials Showcase
 ![Teaser](./teaser.gif)
 ## AWS Certification
