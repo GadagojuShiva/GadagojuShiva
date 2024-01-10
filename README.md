@@ -1,7 +1,7 @@
 <!--CERTS SHIELDS -->
 [![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/cloud-practitioner/) [![LinkedIn][linkedin-shield]][linkedin-url]
 
-## <p align="center">Gadagoju Shiva</p>
+## <p align="center" style="font-size:35px">Gadagoju Shiva</p>
 
 Hello:wave:! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 2022, and I specialize in DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
 
