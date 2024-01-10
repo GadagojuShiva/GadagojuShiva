@@ -53,7 +53,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
   </details>
   
-- <details>
+<!-- - <details>
   <summary><strong>AWS Cloud Resume Challenge</strong></summary>
   <ol>
     <ul>
@@ -61,7 +61,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
     <li><a href="https://github.com/GadagojuShiva/aws_cloud_resume_challenge">GitHub Repository</a></li>
     <ul>
   </ol>
-</details>
+</details> -->
 
 - <details>
   <summary><strong>Lift & Shift to AWS Cloud Computing</strong></summary>
@@ -75,7 +75,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
 </details>
 
-- <details>
+<!-- - <details>
   <summary><strong>Secure VPC Setup with EC2 Instances</strong></summary>
   <ol>
       <ul>
@@ -86,7 +86,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
         <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_VPC_with_servers_in_private_subnets_NAT">GitHub Repository</a></li>
       </ul>
   </ol>
-</details>
+</details> -->
 
 - <details>
   <summary><strong>AWS CI/CD Pipeline for Python App</strong></summary>
@@ -99,7 +99,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
 </details>
 
-- <details>
+<!-- - <details>
   <summary><strong>AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots</strong></summary>
   <ol>
       <ul>
@@ -108,9 +108,9 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
         <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS_Cloud_Cost_Optimization_using_lambda_functions">GitHub Repository</a></li>
       </ul>
   </ol>
-</details>
+</details> -->
 
-- <details>
+<!-- - <details>
   <summary><strong>Serverless API with AWS Lambda, DynamoDB, and API Gateway
   </strong></summary>
   <ol>
@@ -119,7 +119,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
         <li><a href="https://github.com/GadagojuShiva/aws-serverless-dynamodb-api">GitHub Repository</a></li>
       </ul>
   </ol>
-</details>
+</details> -->
 
 - <details>
   <summary><strong>AWS Resource Tracking Project
