@@ -76,7 +76,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
         <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects">GitHub Repository</a></li>
       </ul>
   </ol>
-</details>
+</details> 
 
 <details>
   <summary>AWS Resource Tracking Project</summary>
@@ -180,10 +180,9 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 [github-url]: https://github.com/gadagojushiva/AWS_Resource_Tracking_Project
 
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&layout=compact" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadagojushiva&theme=default&hide_border=true" height="180"/>
 </p>
 
 
