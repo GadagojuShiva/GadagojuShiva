@@ -20,6 +20,20 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
 ## Projects:
 
 - <details>
+  <summary><strong>Deployment of Java Spring Boot App on Kubernetes - ArgoCD :</strong></summary>
+  <ol>
+    <ul>
+    <li>Established a streamlined pipeline using Jenkins for continuous integration and deployment from
+GitHub.</li>
+    <li>Successfully employed Docker for efficient application packaging and deployment.</li>
+    <li>Orchestrated Kubernetes clusters with Minikube for scalability.</li>
+    <li>Implemented ArgoCD for automated and reliable application deployments</li>
+    <li><a href="https://github.com/GadagojuShiva/employee-management-java-spring-boot">GitHub Repository</a></li>
+    <ul>
+  </ol>
+  </details>
+
+- <details>
   <summary><strong>Containerization and Orchestration: NGINX Deployment</strong></summary>
   <ol>
     <ul>
