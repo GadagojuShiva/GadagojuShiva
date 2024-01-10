@@ -3,7 +3,7 @@
 
 ## <p align="center">Gadagoju Shiva</p>
 
-Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 2022, and I specialize in DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
+Hello:wave:! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 2022, and I specialize in DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
 
 <!-- ## Credentials Showcase
 ![Teaser](./teaser.gif) -->
@@ -11,6 +11,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
 ## Certifications I have Accomplished
 
 :medal_military: **AWS Certified Solutions Architect - Associate** -  [Verify](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
+
 :medal_military: **AWS Certified Cloud Practitioner** -  [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
 ### I have demonstrated my skills through various compelling personal projects that highlight my expertise in AWS and DevOps practices. Here are some key projects I've been involved in:
@@ -178,14 +179,9 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=dark&show_icons=true&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadagojushiva&theme=dark&show_icons=true&hide_border=true&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&layout=compact" height="180"/>
 </p>
-
-
-
-
-
 
 
 
