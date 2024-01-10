@@ -4,9 +4,23 @@
 ## <p align="center">Gadagoju Shiva</p>
 
 Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 2022, and I specialize in DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
-## Credentials Showcase
+
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Credentials Showcase</strong>
+</p>
+<hr>
+<!-- ## Credentials Showcase -->
 ![Teaser](./teaser.gif)
-## AWS Certification
+
+
+<!-- ## AWS Certification -->
+
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Certification</strong>
+</p>
+<hr>
 
 - **AWS Certified Solutions Architect - Associate**
   - AWS Credential Verification: [Verify](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
@@ -17,7 +31,13 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
 
 <!-- projects -->
 <!-- [![github][github-shield]][github-url] -->
-## Projects:
+<!-- ## Projects: -->
+
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Projects</strong>
+</p>
+<hr>
 
 <details>
   <summary><strong>Deployment of Java Spring Boot App on Kubernetes - ArgoCD :</strong></summary>
@@ -132,33 +152,60 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
 </details> -->
 
-## Skills:
+<!-- ## Skills: -->
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Skills</strong>
+</p>
+<hr>
 
 <p align="center">
-  
-  <img src="./icons/aws.svg" width="48">
-  <img src="./icons/git.svg" width="48">
-  <img src="./icons/docker.svg" width="48">
-  <img src="./icons/kubernetes.svg" width="48">
-  <img src="./icons/github.svg" width="48">
-  <img src="./icons/Terraform-Dark.svg" width="48">
-  <img src="./icons/grafana.svg" width="48">
-  <img src="./icons/visual-studio.svg" width="48">
-  <img src="./icons/Prometheus.svg" width="48">
-  <img src="./icons/Maven-Dark.svg" width="48">
-  <img src="./icons/ansible.svg" width="38">
+  <img src="./icons/aws.svg" width="48" alt="AWS">
+  <img src="./icons/git.svg" width="48" alt="Git">
+  <img src="./icons/docker.svg" width="48" alt="Docker">
+  <img src="./icons/kubernetes.svg" width="48" alt="Kubernetes">
+  <img src="./icons/github.svg" width="48" alt="GitHub">
+  <img src="./icons/Terraform-Dark.svg" width="48" alt="Terraform">
+  <img src="./icons/grafana.svg" width="48" alt="Grafana">
+  <img src="./icons/visual-studio.svg" width="48" alt="Visual Studio">
+  <img src="./icons/Prometheus.svg" width="48" alt="Prometheus">
+  <img src="./icons/Maven-Dark.svg" width="48" alt="Maven">
+  <img src="./icons/ansible.svg" width="38" alt="Ansible">
 </p>
 
-## Get in Touch
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Foundational Understanding</strong>
+</p>
+<hr>
+
+<p align="center">
+  <img src="./icons/python.svg" width="48" alt="Python">
+  <img src="./icons/sql.svg" width="48" alt="SQL">
+  <img src="./icons/html.svg" width="48" alt="HTML">
+  <img src="./icons/css.svg" width="48" alt="CSS">
+</p>
+
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Get in Touch</strong>
+</p>
+<hr>
+
+<!-- ## Get in Touch -->
 
 - I'm passionate about cloud technologies and DevOps practices. Let's connect and explore opportunities to collaborate on innovative projects. Feel free to reach out to me: 
   <br>
   <br>
   [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-gadagoju/) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadagojushiva00@gmail.com)
 
+<hr>
+<p align="center" style="margin: -25px 0;font-size: 24px;">
+  <strong >Online Portfolio</strong>
+</p>
+<hr>
 
-
-## Online Portfolio:
+<!-- ## Online Portfolio: -->
 - Explore more about my projects and skills on my website:
   <br>
   <br>
