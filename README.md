@@ -14,7 +14,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 
 :medal_military: **AWS Certified Cloud Practitioner** -  [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
-### I have demonstrated my skills through various compelling personal projects that highlight my expertise in AWS and DevOps practices. Here are some key projects I've been involved in:
+## I have demonstrated my skills through various compelling personal projects that highlight my expertise in AWS and DevOps practices. Here are some key projects I've been involved in:
 
 <!-- projects -->
 <!-- [![github][github-shield]][github-url] -->
@@ -146,11 +146,11 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   <img src="./icons/visual-studio.svg" width="48" alt="Visual Studio">
   <img src="./icons/Prometheus.svg" width="48" alt="Prometheus">
   <img src="./icons/Maven-Dark.svg" width="48" alt="Maven">
-  <img src="./icons/ansible.svg" width="40" alt="Ansible">
+  <img src="./icons/ansible.svg" width="42" alt="Ansible">
   <img src="./icons/python.svg" width="48" alt="Python">
-  <img src="./icons/sql.svg" width="48" alt="SQL">
   <img src="./icons/html.svg" width="48" alt="HTML">
   <img src="./icons/css.svg" width="48" alt="CSS">
+  <img src="./icons/mysql.svg" width="48" alt="CSS">
 </p>
 
 
