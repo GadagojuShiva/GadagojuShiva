@@ -19,7 +19,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
 <!-- [![github][github-shield]][github-url] -->
 ## Projects:
 
-- <details>
+<details>
   <summary><strong>Deployment of Java Spring Boot App on Kubernetes - ArgoCD :</strong></summary>
   <ol>
     <ul>
@@ -32,7 +32,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
   </details>
 
-- <details>
+<details>
   <summary><strong>Containerization and Orchestration: NGINX Deployment</strong></summary>
   <ol>
     <ul>
@@ -43,7 +43,7 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
   </details>
   
-- <details>
+<details>
   <summary><strong>Containerization Django Application</strong></summary>
   <ol>
     <ul>
@@ -52,18 +52,8 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
     <ul>
   </ol>
   </details>
-  
-<!-- - <details>
-  <summary><strong>AWS Cloud Resume Challenge</strong></summary>
-  <ol>
-    <ul>
-    <li>Developed a professional resume website using AWS, featuring a dynamic visitor counter, HTTPS security, and automated CI/CD pipelines with GitHub Actions.</li>
-    <li><a href="https://github.com/GadagojuShiva/aws_cloud_resume_challenge">GitHub Repository</a></li>
-    <ul>
-  </ol>
-</details> -->
 
-- <details>
+<details>
   <summary><strong>Lift & Shift to AWS Cloud Computing</strong></summary>
   <ol>
       <ul>
@@ -71,6 +61,28 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
         <li>Modernized, scaled, and optimized costs during the migration.</a></li>
         <li>Utilized AWS services such as EC2, ELB, S3, Route 53, IAM, and CloudFormation.</a></li>
         <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-LIFT-AND-SHIFT-PROJECT">GitHub Repository</a></li>
+      </ul>
+  </ol>
+</details>
+
+<details>
+  <summary><strong>AWS CI/CD Pipeline for Python App</strong></summary>
+  <ol>
+      <ul>
+        <li>Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.</li>
+        <li>Resulted in streamlined development, testing, and deployment on EC2 instances, enhancing development efficiency and code reliability.</li>
+        <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects">GitHub Repository</a></li>
+      </ul>
+  </ol>
+</details>
+
+<details>
+  <summary><strong>AWS Resource Tracking Project
+  </strong></summary>
+  <ol>
+      <ul>
+        <li>This project is a simple Bash script to track resources in an AWS account. It lists information about EC2 instances, S3 buckets, Lambda functions, and IAM users.</li>
+        <li><a href="https://github.com/GadagojuShiva/AWS_Resource_Tracking_Project">GitHub Repository</a></li>
       </ul>
   </ol>
 </details>
@@ -88,16 +100,15 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
 </details> -->
 
-- <details>
-  <summary><strong>AWS CI/CD Pipeline for Python App</strong></summary>
+<!-- - <details>
+  <summary><strong>AWS Cloud Resume Challenge</strong></summary>
   <ol>
-      <ul>
-        <li>Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.</li>
-        <li>Resulted in streamlined development, testing, and deployment on EC2 instances, enhancing development efficiency and code reliability.</li>
-        <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects">GitHub Repository</a></li>
-      </ul>
+    <ul>
+    <li>Developed a professional resume website using AWS, featuring a dynamic visitor counter, HTTPS security, and automated CI/CD pipelines with GitHub Actions.</li>
+    <li><a href="https://github.com/GadagojuShiva/aws_cloud_resume_challenge">GitHub Repository</a></li>
+    <ul>
   </ol>
-</details>
+</details> -->
 
 <!-- - <details>
   <summary><strong>AWS Cloud Cost Optimization - Identifying Stale EBS Snapshots</strong></summary>
@@ -121,33 +132,22 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
   </ol>
 </details> -->
 
-- <details>
-  <summary><strong>AWS Resource Tracking Project
-  </strong></summary>
-  <ol>
-      <ul>
-        <li>This project is a simple Bash script to track resources in an AWS account. It lists information about EC2 instances, S3 buckets, Lambda functions, and IAM users.</li>
-        <li><a href="https://github.com/GadagojuShiva/AWS_Resource_Tracking_Project">GitHub Repository</a></li>
-      </ul>
-  </ol>
-</details>
-
 ## Skills:
 
-- **Cloud Technologies:**
-  - [x] AWS
-- **DevOps and Automation:**
-  - [x] Jenkins
-  - [x] Terraform
-  - [x] Ansible
-  - [x] Docker
-  - [x] Kubernetes 
-- **Programming Languages**
-  - [x] Foundational Knowledge of Python (Basics)
-- **Query language**
-  - [x] Basics of MySQL
-- **Web Devlopement**
-  - [ ] Basics of HTML and CSS  
+<p align="center">
+  
+  <img src="./icons/aws.svg" width="48">
+  <img src="./icons/git.svg" width="48">
+  <img src="./icons/docker.svg" width="48">
+  <img src="./icons/kubernetes.svg" width="48">
+  <img src="./icons/github.svg" width="48">
+  <img src="./icons/Terraform-Dark.svg" width="48">
+  <img src="./icons/grafana.svg" width="48">
+  <img src="./icons/visual-studio.svg" width="48">
+  <img src="./icons/Prometheus.svg" width="48">
+  <img src="./icons/Maven-Dark.svg" width="48">
+  <img src="./icons/ansible.svg" width="38">
+</p>
 
 ## Get in Touch
 
@@ -170,3 +170,52 @@ Hello! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 20
 [github-shield]: https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github
 [github-url]: https://github.com/gadagojushiva/AWS_Resource_Tracking_Project
 
+<!-- # Skills Matrix
+
+| Skill | Proficiency |
+|-------|-------------|
+| AWS   | ⭐️⭐️⭐️⭐️   |
+| Git   | ⭐️⭐️⭐️⭐️   |
+| Kubernetes | ⭐️⭐️⭐️⭐️   |
+| Docker | ⭐️⭐️⭐️⭐️   |
+| GitHub | ⭐️⭐️⭐️⭐️   |
+| Terraform | ⭐️⭐️⭐️⭐️   |
+| Grafana | ⭐️⭐️⭐️⭐️   |
+| Visual Studio | ⭐️⭐️⭐️⭐️   |
+| Prometheus | ⭐️⭐️⭐️⭐️   |
+| Maven | ⭐️⭐️⭐️⭐️   |
+| Ansible | ⭐️⭐️⭐️⭐️   | -->
+
+<!-- 
+##### Cloud Services
+<img src="https://skillicons.dev/icons?i=aws&perline=3" alt="AWS" width="48" height="48"> <img src="https://skillicons.dev/icons?i=kubernetes&perline=3" alt="Kubernetes" width="48" height="48"> <img src="https://skillicons.dev/icons?i=docker&perline=3" alt="Docker" width="48" height="48">
+
+**Description:** Proficient in utilizing cloud services, specializing in AWS, with expertise in Kubernetes for container orchestration and Docker for containerization.
+
+##### Version Control
+<img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" width="48" height="48"> <img src="./icons/github.svg" alt="GitHub" width="48" height="48">
+
+**Description:** Extensive experience in version control systems, particularly Git, and adept at managing repositories on GitHub.
+
+##### Infrastructure as Code
+<img src="./icons/Terraform-Dark.svg" alt="Terraform" width="48" height="48">
+
+**Description:** Skilled in designing and implementing Infrastructure as Code (IaC) using Terraform for efficient and scalable infrastructure provisioning.
+
+##### Monitoring and Visualization
+<img src="./icons/Prometheus.svg" alt="Prometheus" width="48" height="48"> <img src="./icons/grafana.svg" alt="Grafana" width="48" height="48">
+
+**Description:** Proficient in setting up robust monitoring solutions using Prometheus and creating insightful dashboards with Grafana.
+
+##### Build and Automation
+<img src="./icons/Maven-Dark.svg" alt="Maven" width="48" height="48"> <img src="./icons/ansible.svg" alt="Ansible" width="40" height="40">
+
+**Description:** Expertise in build automation using Maven and proficient in implementing configuration management with Ansible.
+
+##### Integrated Development Environment (IDE)
+<img src="./icons/visual-studio.svg" alt="Visual Studio" width="48" height="48">
+
+**Description:** Comfortable and productive with Visual Studio as the primary Integrated Development Environment (IDE) for software development. -->
+
+
+<!-- Add more sections or customize the content based on your skills -->
