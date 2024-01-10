@@ -20,8 +20,9 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 <!-- [![github][github-shield]][github-url] -->
 
 
+
 <details>
-  <summary><strong>Deployment of Java Spring Boot App on Kubernetes - ArgoCD :</strong></summary>
+  <summary>Deployment of Java Spring Boot App on Kubernetes - ArgoCD :</summary>
   <ol>
     <ul>
     <li>Established a streamlined pipeline using Jenkins for continuous integration and deployment from GitHub.</li>
@@ -34,7 +35,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   </details>
 
 <details>
-  <summary><strong>Containerization and Orchestration: NGINX Deployment</strong></summary>
+  <summary>Containerization and Orchestration: NGINX Deployment</summary>
   <ol>
     <ul>
     <li>Implemented NGINX web server deployment on Kubernetes with 2 replicas.</li>
@@ -45,7 +46,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   </details>
   
 <details>
-  <summary><strong>Containerization Django Application</strong></summary>
+  <summary>Containerization Django Application</summary>
   <ol>
     <ul>
     <li>Containerized a Python Django web app with Docker, ensuring streamlined deploymentand scalability while maintaining consistency across development, testing, and productionenvironments.      </li>
@@ -55,7 +56,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   </details>
 
 <details>
-  <summary><strong>Lift & Shift to AWS Cloud Computing</strong></summary>
+  <summary>Lift & Shift to AWS Cloud Computing</summary>
   <ol>
       <ul>
         <li>Successfully completed a project to migrate an on-premises application to the AWS cloud.</a></li>
@@ -67,7 +68,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 </details>
 
 <details>
-  <summary><strong>AWS CI/CD Pipeline for Python App</strong></summary>
+  <summary>AWS CI/CD Pipeline for Python App</summary>
   <ol>
       <ul>
         <li>Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.</li>
@@ -78,8 +79,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 </details>
 
 <details>
-  <summary><strong>AWS Resource Tracking Project
-  </strong></summary>
+  <summary>AWS Resource Tracking Project</summary>
   <ol>
       <ul>
         <li>This project is a simple Bash script to track resources in an AWS account. It lists information about EC2 instances, S3 buckets, Lambda functions, and IAM users.</li>
@@ -140,6 +140,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   <img src="./icons/git.svg" width="48" alt="Git">
   <img src="./icons/docker.svg" width="48" alt="Docker">
   <img src="./icons/kubernetes.svg" width="48" alt="Kubernetes">
+  <img src="./icons/jenkins.svg" width="48" alt="CSS">
   <img src="./icons/github.svg" width="48" alt="GitHub">
   <img src="./icons/Terraform-Dark.svg" width="48" alt="Terraform">
   <img src="./icons/grafana.svg" width="48" alt="Grafana">
@@ -151,6 +152,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   <img src="./icons/html.svg" width="48" alt="HTML">
   <img src="./icons/css.svg" width="48" alt="CSS">
   <img src="./icons/mysql.svg" width="48" alt="CSS">
+  <img src="./icons/linux.svg" width="48" alt="CSS">
 </p>
 
 
@@ -181,9 +183,9 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&layout=compact" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadagojushiva&theme=default&hide_border=true" height="180"/>
 </p>
-
-
+ 
 
 <!-- # Skills Matrix
 
@@ -234,4 +236,8 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 
 
 <!-- Add more sections or customize the content based on your skills -->
+
+
+
+
 
