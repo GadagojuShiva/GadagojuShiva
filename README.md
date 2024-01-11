@@ -185,7 +185,6 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&layout=compact" height="180"/>
 </p>
 
-
 <!-- # Skills Matrix
 
 | Skill | Proficiency |
