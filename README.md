@@ -156,7 +156,8 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 </p>
 
 ## Latest Blog Posts
-- <a href="https://dummyme.xyz/assests/blog/index.html" target="_blank">Blog On Application Deployment on Kubernetes</a>
+- <a href="https://dummyme.xyz/assests/blog/java-srping-boot-deployment/index.html" target="_blank">Blog On Application Deployment on Kubernetes</a>
+- <a href="https://dummyme.xyz/assests/blog/Kubernetes-Blog/index.html" target="_blank">Blog On Kubernetes</a>
 
 ## Get in Touch
 
