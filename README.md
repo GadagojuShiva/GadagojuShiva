@@ -33,40 +33,6 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
     <ul>
   </ol>
   </details>
-
-<details>
-  <summary>Containerization and Orchestration: NGINX Deployment</summary>
-  <ol>
-    <ul>
-    <li>Implemented NGINX web server deployment on Kubernetes with 2 replicas.</li>
-    <li>Employed labels and selectors for efficient deployment management.</li>
-    <li><a href="https://github.com/GadagojuShiva/kubernetes-examples">GitHub Repository</a></li>
-    <ul>
-  </ol>
-  </details>
-  
-<details>
-  <summary>Containerization Django Application</summary>
-  <ol>
-    <ul>
-    <li>Containerized a Python Django web app with Docker, ensuring streamlined deploymentand scalability while maintaining consistency across development, testing, and productionenvironments.      </li>
-    <li><a href="https://github.com/GadagojuShiva/todo-application">GitHub Repository</a></li>
-    <ul>
-  </ol>
-  </details>
-
-<details>
-  <summary>Lift & Shift to AWS Cloud Computing</summary>
-  <ol>
-      <ul>
-        <li>Successfully completed a project to migrate an on-premises application to the AWS cloud.</a></li>
-        <li>Modernized, scaled, and optimized costs during the migration.</a></li>
-        <li>Utilized AWS services such as EC2, ELB, S3, Route 53, IAM, and CloudFormation.</a></li>
-        <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-LIFT-AND-SHIFT-PROJECT">GitHub Repository</a></li>
-      </ul>
-  </ol>
-</details>
-
 <details>
   <summary>AWS CI/CD Pipeline for Python App</summary>
   <ol>
@@ -77,6 +43,42 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
       </ul>
   </ol>
 </details> 
+<details>
+  <summary>Containerization and Orchestration: NGINX Deployment</summary>
+  <ol>
+    <ul>
+    <li>Implemented NGINX web server deployment on Kubernetes with 2 replicas.</li>
+    <li>Employed labels and selectors for efficient deployment management.</li>
+    <li><a href="https://github.com/GadagojuShiva/kubernetes-examples">GitHub Repository</a></li>
+    <ul>
+  </ol>
+  </details>
+
+<details>
+  <summary>TerraWeb: Infrastructure As Code For Static Website Hosting On AWS S3</summary>
+  <ol>
+      <ul>
+        <li>Streamline static website hosting on Amazon S3 with TerraWeb.</a></li>
+        <li>Effortlessly manage ownership, access controls, and website configurations.</a></li>
+        <li>Deploy and manage AWS S3 using Terraform for a code-driven, hassle-free process.</a></li>
+        <li><a href="https://github.com/GadagojuShiva/terraform_examples/tree/main/example-4">GitHub Repository</a></li>
+      </ul>
+  </ol>
+</details>
+
+<details>
+  <summary>Containerization Django Application</summary>
+  <ol>
+    <ul>
+    <li>Containerized a Python Django web app with Docker, ensuring streamlined deploymentand scalability while maintaining consistency across development, testing, and productionenvironments.      </li>
+    <li><a href="https://github.com/GadagojuShiva/todo-application">GitHub Repository</a></li>
+    <ul>
+  </ol>
+  </details>
+
+
+
+
 
 <details>
   <summary>AWS Resource Tracking Project</summary>
@@ -158,6 +160,8 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 ## Latest Blog Posts
 - <a href="https://dummyme.xyz/assests/blog/java-srping-boot-deployment/index.html" target="_blank">Blog On Application Deployment on Kubernetes</a>
 - <a href="https://dummyme.xyz/assests/blog/Kubernetes-Blog/index.html" target="_blank">Blog On Kubernetes</a>
+- <a href="https://dummyme.xyz/assests/blog/aws-cicd/index.html" target="_blank">Blog On Mastering CI/CD: Deploying Python Apps on AWS</a>
+- <a href="https://dummyme.xyz/assests/blog/hosting-website-on-s3-using-terraform/index.html" target="_blank">Blog On TerraWeb: Infrastructure As Code For Static Website Hosting On AWS S3</a>
 
 ## Get in Touch
 
@@ -190,19 +194,19 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 
 <!-- # Skills Matrix
 
-| Skill | Proficiency |
-|-------|-------------|
-| AWS   | ⭐️⭐️⭐️⭐️   |
-| Git   | ⭐️⭐️⭐️⭐️   |
-| Kubernetes | ⭐️⭐️⭐️⭐️   |
-| Docker | ⭐️⭐️⭐️⭐️   |
-| GitHub | ⭐️⭐️⭐️⭐️   |
-| Terraform | ⭐️⭐️⭐️⭐️   |
-| Grafana | ⭐️⭐️⭐️⭐️   |
-| Visual Studio | ⭐️⭐️⭐️⭐️   |
-| Prometheus | ⭐️⭐️⭐️⭐️   |
-| Maven | ⭐️⭐️⭐️⭐️   |
-| Ansible | ⭐️⭐️⭐️⭐️   | -->
+| Skill         | Proficiency |
+| ------------- | ----------- |
+| AWS           | ⭐️⭐️⭐️⭐️        |
+| Git           | ⭐️⭐️⭐️⭐️        |
+| Kubernetes    | ⭐️⭐️⭐️⭐️        |
+| Docker        | ⭐️⭐️⭐️⭐️        |
+| GitHub        | ⭐️⭐️⭐️⭐️        |
+| Terraform     | ⭐️⭐️⭐️⭐️        |
+| Grafana       | ⭐️⭐️⭐️⭐️        |
+| Visual Studio | ⭐️⭐️⭐️⭐️        |
+| Prometheus    | ⭐️⭐️⭐️⭐️        |
+| Maven         | ⭐️⭐️⭐️⭐️        |
+| Ansible       | ⭐️⭐️⭐️⭐️        | --> |
 
 <!-- 
 ##### Cloud Services
