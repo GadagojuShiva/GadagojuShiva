@@ -206,7 +206,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 | Visual Studio | ⭐️⭐️⭐️⭐️        |
 | Prometheus    | ⭐️⭐️⭐️⭐️        |
 | Maven         | ⭐️⭐️⭐️⭐️        |
-| Ansible       | ⭐️⭐️⭐️⭐️        | --> |
+| Ansible       | ⭐️⭐️⭐️⭐️        | --> 
 
 <!-- 
 ##### Cloud Services
