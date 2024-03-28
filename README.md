@@ -1,4 +1,5 @@
 <!--CERTS SHIELDS -->
+
 [![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/cloud-practitioner/) [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## <p align="center" style="font-size:42px">Gadagoju Shiva</p>
@@ -10,16 +11,14 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 
 ## Certifications I have Accomplished
 
-:medal_military: **AWS Certified Solutions Architect - Associate** -  [Verify](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
+:medal_military: **AWS Certified Solutions Architect - Associate** - [Verify](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
 
-:medal_military: **AWS Certified Cloud Practitioner** -  [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
+:medal_military: **AWS Certified Cloud Practitioner** - [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
 ## I have demonstrated my skills through various compelling personal projects that highlight my expertise in AWS and DevOps practices. Here are some key projects I've been involved in:
 
 <!-- projects -->
 <!-- [![github][github-shield]][github-url] -->
-
-
 
 <details>
   <summary>Deployment of Java Spring Boot App on Kubernetes - ArgoCD :</summary>
@@ -40,6 +39,18 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
         <li>Orchestrated an end-to-end CI/CD pipeline using AWS tools (CodeCommit, CodePipeline, CodeBuild, CodeDeploy) for a Python application.</li>
         <li>Resulted in streamlined development, testing, and deployment on EC2 instances, enhancing development efficiency and code reliability.</li>
         <li><a href="https://github.com/GadagojuShiva/aws-projects/tree/main/AWS-End-To-End-CICD-Projects">GitHub Repository</a></li>
+      </ul>
+  </ol>
+</details> 
+<details>
+  <summary>GitIssue2Jira
+</summary>
+  <ol>
+      <ul>
+         <li>Developed "GitIssue2Jira" Flask app for automated JIRA ticket creation from GitHub comments.</li>
+          <li>Integrated GitHub webhook to detect "/jira" command triggers for seamless ticket generation.</li>
+        <li>Utilized JIRA API and robust error handling for reliable issue management across platforms.</li>
+        <li><a href="https://github.com/GadagojuShiva/GitIssue2Jira">GitHub Repository</a></li>
       </ul>
   </ol>
 </details> 
@@ -75,10 +86,6 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
     <ul>
   </ol>
   </details>
-
-
-
-
 
 <details>
   <summary>AWS Resource Tracking Project</summary>
@@ -158,6 +165,7 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 </p>
 
 ## Latest Blog Posts
+
 - <a href="https://dummyme.xyz/assests/blog/java-srping-boot-deployment/index.html" target="_blank">Blog On Application Deployment on Kubernetes</a>
 - <a href="https://dummyme.xyz/assests/blog/Kubernetes-Blog/index.html" target="_blank">Blog On Kubernetes</a>
 - <a href="https://dummyme.xyz/assests/blog/aws-cicd/index.html" target="_blank">Blog On Mastering CI/CD: Deploying Python Apps on AWS</a>
@@ -165,26 +173,24 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 
 ## Get in Touch
 
-- I'm passionate about cloud technologies and DevOps practices. Let's connect and explore opportunities to collaborate on innovative projects. Feel free to reach out to me: 
+- I'm passionate about cloud technologies and DevOps practices. Let's connect and explore opportunities to collaborate on innovative projects. Feel free to reach out to me:
   <br>
   <br>
   [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-gadagoju/) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadagojushiva00@gmail.com)
 
-
-
-
 ## Online Portfolio:
+
 - Explore more about my projects and skills on my website:
   <br>
   <br>
   [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit%20Now-000000?style=for-the-badge&logo=google-chrome&logoColor=yellow&colorA=000000&colorB=FFD700)](https://dummyme.xyz/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=200
 [linkedin-url]: https://www.linkedin.com/in/gadagoju-shiva/
 [github-shield]: https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github
 [github-url]: https://github.com/gadagojushiva/AWS_Resource_Tracking_Project
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=default&show_icons=true&hide_border=true&count_private=true" height="180"/>
@@ -206,9 +212,9 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 | Visual Studio | ⭐️⭐️⭐️⭐️        |
 | Prometheus    | ⭐️⭐️⭐️⭐️        |
 | Maven         | ⭐️⭐️⭐️⭐️        |
-| Ansible       | ⭐️⭐️⭐️⭐️        | --> 
+| Ansible       | ⭐️⭐️⭐️⭐️        | -->
 
-<!-- 
+<!--
 ##### Cloud Services
 <img src="https://skillicons.dev/icons?i=aws&perline=3" alt="AWS" width="48" height="48"> <img src="https://skillicons.dev/icons?i=kubernetes&perline=3" alt="Kubernetes" width="48" height="48"> <img src="https://skillicons.dev/icons?i=docker&perline=3" alt="Docker" width="48" height="48">
 
@@ -239,10 +245,4 @@ Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate
 
 **Description:** Comfortable and productive with Visual Studio as the primary Integrated Development Environment (IDE) for software development. -->
 
-
 <!-- Add more sections or customize the content based on your skills -->
-
-
-
-
-
