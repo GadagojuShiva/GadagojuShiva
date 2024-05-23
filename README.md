@@ -4,7 +4,7 @@
 
 ## <p align="center" style="font-size:42px">Gadagoju Shiva</p>
 
-Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I'm a recent graduate from 2022, and I specialize in Linux, DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
+Hello :wave: ! My name is <strong>Gadagoju Shiva</strong>. I specialize in Linux, DevOps and AWS. I'm eager to contribute my skills in streamlining development processes and optimizing cloud solutions. Let's collaborate and build amazing tech solutions together! 🚀👨‍💻 #DevOps #AWS #TechEnthusiast
 
 Currently, I am expanding my Python proficiency, particularly with Flask, to broaden my capabilities for DevOps and AWS roles.
 
