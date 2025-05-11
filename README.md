@@ -95,7 +95,7 @@ Currently working as a **Junior System Administrator (DevSecOps)** at Veniso Sol
 I'm passionate about cloud technologies, DevOps practices, and security. Let's connect and explore opportunities to collaborate on innovative projects.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shiva-gadagoju/">
+  <a href="https://www.linkedin.com/in/gadagoju-shiva/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gadagojushiva00@gmail.com">
