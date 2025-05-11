@@ -16,51 +16,57 @@
   </a>
 </div>
 
-## About Me
+---
 
-DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native security**. I specialize in automating deployments, securing containerized infrastructure, and performing offensive security assessments to ensure production-grade resilience.
+## Professional Summary
 
-Currently working as a **Junior System Administrator (DevSecOps)** at Veniso Solutions, where I:
-- Manage and secure production servers running NGINX, PHP-FPM, MySQL on Rocky Linux
-- Deploy containerized microservices to Kubernetes using kubeadm
-- Build observability dashboards using Prometheus, Grafana, and EFK stack
-- Conduct Black Box VAPT on production systems
+DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native security**. Specializing in automating deployments, securing containerized infrastructure, and performing offensive security assessments to ensure production-grade resilience.
+
+**Current Role: Junior System Administrator (DevSecOps) - Veniso Solutions**
+- Managing and securing production servers running NGINX, PHP-FPM, MySQL on Rocky Linux
+- Deploying containerized microservices to Kubernetes using kubeadm
+- Building observability dashboards using Prometheus, Grafana, and EFK stack
+- Conducting Black Box VAPT on production systems
+
+---
 
 ## Core Competencies
 
-<table>
-<tr>
-<td>
-
-### Infrastructure
-- Kubernetes & Docker
-- AWS Cloud Services
-- Linux Administration
-- Terraform & Ansible
-
-</td>
-<td>
-
-### DevOps
-- CI/CD Pipelines
-- GitLab CI/CD & Jenkins
-- Monitoring & Observability
-- Infrastructure as Code
-
-</td>
-<td>
-
-### Security
-- Black Box VAPT
-- OWASP Top 10 Remediation
-- Security Scanning & Hardening
-- API Security Testing
-
-</td>
-</tr>
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 0 8px;">
+  <tr>
+    <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
+      <h3 align="center" style="color: #FF9900; margin-bottom: 20px; ">Infrastructure</h3>
+      <ul style="list-style-type: none; padding: ;">
+        <li style="margin: 8px 0;">Kubernetes & Docker</li>
+        <li style="margin: 8px 0;">AWS Cloud Services</li>
+        <li style="margin: 8px 0;">Linux Administration</li>
+        <li style="margin: 8px 0;">Terraform & Ansible</li>
+      </ul>
+    </td>
+    <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
+      <h3 align="center" style="color: #FF9900; margin-bottom: 15px;">DevOps</h3>
+      <ul style="list-style-type: none; padding: ;">
+        <li style="margin: 8px 0;">CI/CD Pipelines</li>
+        <li style="margin: 8px 0;">GitLab CI/CD & Jenkins</li>
+        <li style="margin: 8px 0;">Monitoring & Observability</li>
+        <li style="margin: 8px 0;">Infrastructure as Code</li>
+      </ul>
+    </td>
+    <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
+      <h3 align="center" style="color: #FF9900; margin-bottom: 15px;">Security</h3>
+      <ul style="list-style-type: none; padding: ;">
+        <li style="margin: 8px 0;">Black Box VAPT</li>
+        <li style="margin: 8px 0;">OWASP Top 10 Remediation</li>
+        <li style="margin: 8px 0;">Security Scanning & Hardening</li>
+        <li style="margin: 8px 0;">API Security Testing</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-## Tech Stack
+---
+
+## Technology Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -76,32 +82,36 @@ Currently working as a **Junior System Administrator (DevSecOps)** at Veniso Sol
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-## Achievements
+---
 
-- **Best Newcomer Appreciation Award** – Awarded at Veniso Solutions for driving automation and securing production workloads, resulting in 30% faster deployments and improved compliance
-- **AWS Certified Solutions Architect Associate** - [Verify](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
-- **AWS Certified Cloud Practitioner** - [Verify](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
-- **Introduction to Linux (LFS101)** - Linux Foundation
+## Professional Achievements
 
-## GitHub Stats
+
+- **AWS Certifications**
+  - [Solutions Architect Associate](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
+  - [Cloud Practitioner](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadagojushiva&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" height="170"/>
 </div>
 
-## Get in Touch
+---
 
-I'm passionate about cloud technologies, DevOps practices, and security. Let's connect and explore opportunities to collaborate on innovative projects.
+## Professional Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gadagoju-shiva/">
+  <a href="https://www.linkedin.com/in/shiva-gadagoju/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gadagojushiva00@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-<!--   <a href="https://dummyme.xyz/">
+  <a href="https://dummyme.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a> -->
+  </a>
 </div>
