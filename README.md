@@ -7,7 +7,7 @@
   <a href="https://aws.amazon.com/certification/cloud-practitioner/">
     <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
   </a>
-  <a href="https://www.linkedin.com/in/shiva-gadagoju/">
+  <a href="https://www.linkedin.com/in/gadagoju-shiva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
