@@ -1,7 +1,7 @@
 # Gadagoju Shiva | DevSecOps Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&random=false&width=600&lines=DevSecOps+Engineer;AWS+Certified+Solutions+Architect;Kubernetes+%26+Docker+Specialist;Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&random=false&width=600&lines=DevSecOps+Engineer;AWS+Certified+Solutions+Architect;Security+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
