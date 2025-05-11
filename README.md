@@ -1,10 +1,6 @@
 # Gadagoju Shiva | DevSecOps Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&random=false&width=600&lines=DevSecOps+Engineer;AWS+Certified+Solutions+Architect;Security+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
     <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" />
   </a>
@@ -28,12 +24,14 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
 
 
 ## Core Competencies
-| **Infrastructure**                     | **DevOps**                            | **Security**                         |
-|----------------------------------------|----------------------------------------|---------------------------------------|
-| Kubernetes & Docker                    | CI/CD Pipelines                        | Black Box VAPT                        |
-| AWS Cloud Services                     | GitLab CI/CD & Jenkins                 | OWASP Top 10 Remediation              |
-| Linux Administration                   | Monitoring & Observability             | Security Scanning & Hardening         |
-| Terraform & Ansible                    | Infrastructure as Code                 | API Security Testing                  |
+
+| 🏗️ **Infrastructure** | 🔄 **DevOps**              | 🔐 **Security**               |
+| ---------------------- | -------------------------- | ----------------------------- |
+| Kubernetes & Docker    | CI/CD Pipelines            | Black Box VAPT                |
+| AWS Cloud Services     | GitLab CI/CD & Jenkins     | OWASP Top 10 Remediation      |
+| Linux Administration   | Monitoring & Observability | Security Scanning & Hardening |
+| Terraform & Ansible    | Infrastructure as Code     | API Security Testing          |
+
 
 ## Technology Stack
 
