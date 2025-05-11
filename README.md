@@ -28,38 +28,12 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
 
 
 ## Core Competencies
-
-<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 0 8px;">
-  <tr>
-    <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
-      <h3 align="center" style="color: #FF9900; margin-bottom: 20px; ">Infrastructure</h3>
-      <ul style="list-style-type: none; padding: 0;">
-        <li style="margin: 8px 0;">Kubernetes & Docker</li>
-        <li style="margin: 8px 0;">AWS Cloud Services</li>
-        <li style="margin: 8px 0;">Linux Administration</li>
-        <li style="margin: 8px 0;">Terraform & Ansible</li>
-      </ul>
-    </td>
-    <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
-      <h3 align="center" style="color: #FF9900; margin-bottom: 15px;">DevOps</h3>
-      <ul style="list-style-type: none; padding: 0;">
-        <li style="margin: 8px 0;">CI/CD Pipelines</li>
-        <li style="margin: 8px 0;">GitLab CI/CD & Jenkins</li>
-        <li style="margin: 8px 0;">Monitoring & Observability</li>
-        <li style="margin: 8px 0;">Infrastructure as Code</li>
-      </ul>
-    </td>
-    <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
-      <h3 align="center" style="color: #FF9900; margin-bottom: 15px;">Security</h3>
-      <ul style="list-style-type: none; padding: 0;">
-        <li style="margin: 8px 0;">Black Box VAPT</li>
-        <li style="margin: 8px 0;">OWASP Top 10 Remediation</li>
-        <li style="margin: 8px 0;">Security Scanning & Hardening</li>
-        <li style="margin: 8px 0;">API Security Testing</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| **Infrastructure**                     | **DevOps**                            | **Security**                         |
+|----------------------------------------|----------------------------------------|---------------------------------------|
+| Kubernetes & Docker                    | CI/CD Pipelines                        | Black Box VAPT                        |
+| AWS Cloud Services                     | GitLab CI/CD & Jenkins                 | OWASP Top 10 Remediation              |
+| Linux Administration                   | Monitoring & Observability             | Security Scanning & Hardening         |
+| Terraform & Ansible                    | Infrastructure as Code                 | API Security Testing                  |
 
 ## Technology Stack
 
