@@ -16,8 +16,6 @@
   </a>
 </div>
 
----
-
 ## Professional Summary
 
 DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native security**. Specializing in automating deployments, securing containerized infrastructure, and performing offensive security assessments to ensure production-grade resilience.
@@ -28,7 +26,6 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
 - Building observability dashboards using Prometheus, Grafana, and EFK stack
 - Conducting Black Box VAPT on production systems
 
----
 
 ## Core Competencies
 
@@ -36,7 +33,7 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
   <tr>
     <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
       <h3 align="center" style="color: #FF9900; margin-bottom: 20px; ">Infrastructure</h3>
-      <ul style="list-style-type: none; padding: ;">
+      <ul style="list-style-type: none; padding: 0;">
         <li style="margin: 8px 0;">Kubernetes & Docker</li>
         <li style="margin: 8px 0;">AWS Cloud Services</li>
         <li style="margin: 8px 0;">Linux Administration</li>
@@ -45,7 +42,7 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
     </td>
     <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
       <h3 align="center" style="color: #FF9900; margin-bottom: 15px;">DevOps</h3>
-      <ul style="list-style-type: none; padding: ;">
+      <ul style="list-style-type: none; padding: 0;">
         <li style="margin: 8px 0;">CI/CD Pipelines</li>
         <li style="margin: 8px 0;">GitLab CI/CD & Jenkins</li>
         <li style="margin: 8px 0;">Monitoring & Observability</li>
@@ -54,7 +51,7 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
     </td>
     <td style="width: 33%; padding: 20px; background-color: #; border-radius: 8px;">
       <h3 align="center" style="color: #FF9900; margin-bottom: 15px;">Security</h3>
-      <ul style="list-style-type: none; padding: ;">
+      <ul style="list-style-type: none; padding: 0;">
         <li style="margin: 8px 0;">Black Box VAPT</li>
         <li style="margin: 8px 0;">OWASP Top 10 Remediation</li>
         <li style="margin: 8px 0;">Security Scanning & Hardening</li>
@@ -63,8 +60,6 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
     </td>
   </tr>
 </table>
-
----
 
 ## Technology Stack
 
@@ -82,8 +77,6 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
----
-
 ## Professional Achievements
 
 
@@ -91,7 +84,6 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
   - [Solutions Architect Associate](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
   - [Cloud Practitioner](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
 
----
 
 ## GitHub Analytics
 
@@ -100,7 +92,6 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadagojushiva&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" height="170"/>
 </div>
 
----
 
 ## Professional Contact
 
@@ -110,8 +101,5 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
   </a>
   <a href="mailto:gadagojushiva00@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://dummyme.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
