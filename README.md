@@ -1,4 +1,4 @@
-# Gadagoju Shiva | DevSecOps Engineer
+<h1 align="center">Gadagoju Shiva | DevSecOps Engineer</h1>
 
 <div align="center">
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
@@ -25,12 +25,12 @@ DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native
 
 ## Core Competencies
 
-| 🏗️ **Infrastructure** | 🔄 **DevOps**              | 🔐 **Security**               |
-| ---------------------- | -------------------------- | ----------------------------- |
-| Kubernetes & Docker    | CI/CD Pipelines            | Black Box VAPT                |
-| AWS Cloud Services     | GitLab CI/CD & Jenkins     | OWASP Top 10 Remediation      |
-| Linux Administration   | Monitoring & Observability | Security Scanning & Hardening |
-| Terraform & Ansible    | Infrastructure as Code     | API Security Testing          |
+| **Infrastructure**            | **DevOps**                      | **Security**                    |
+|------------------------------|----------------------------------|---------------------------------|
+| Kubernetes & Docker          | CI/CD Pipelines                  | Black Box VAPT                  |
+| AWS Cloud Services           | GitLab CI/CD & Jenkins           | OWASP Top 10 Remediation        |
+| Linux Administration         | Monitoring & Observability       | Security Scanning & Hardening   |
+| Terraform & Ansible          | Infrastructure as Code           | API Security Testing            |
 
 
 ## Technology Stack
