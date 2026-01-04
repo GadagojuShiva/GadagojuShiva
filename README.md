@@ -1,4 +1,4 @@
-<h1 align="center">Gadagoju Shiva | DevSecOps Engineer</h1>
+<h1 align="center">Gadagoju Shiva | DevOps Engineer</h1>
 
 <div align="center">
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
@@ -14,14 +14,7 @@
 
 ## Professional Summary
 
-DevSecOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native security**. Specializing in automating deployments, securing containerized infrastructure, and performing offensive security assessments to ensure production-grade resilience.
-
-**Current Role: Junior System Administrator (DevSecOps) - Veniso Solutions**
-- Managing and securing production servers running NGINX, PHP-FPM, MySQL on Rocky Linux
-- Deploying containerized microservices to Kubernetes using kubeadm
-- Building observability dashboards using Prometheus, Grafana, and EFK stack
-- Conducting Black Box VAPT on production systems
-
+DevOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native security**. Specializing in automating deployments, securing containerized infrastructure, and performing offensive security assessments to ensure production-grade resilience.
 
 ## Core Competencies
 
