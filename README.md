@@ -14,19 +14,9 @@
 
 ## Professional Summary
 
-DevOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native security**. Specializing in automating deployments, securing containerized infrastructure, and performing offensive security assessments to ensure production-grade resilience.
+DevOps Engineer working with **Kubernetes**, **AWS**, and **cloud-native infrastructure**. Specializing in automating deployments, building CI/CD pipelines, and managing production-grade infrastructure.
 
-## Core Competencies
-
-| **Infrastructure**            | **DevOps**                      | **Security**                    |
-|------------------------------|----------------------------------|---------------------------------|
-| Kubernetes & Docker          | CI/CD Pipelines                  | Black Box VAPT                  |
-| AWS Cloud Services           | GitLab CI/CD & Jenkins           | OWASP Top 10 Remediation        |
-| Linux Administration         | Monitoring & Observability       | Security Scanning & Hardening   |
-| Terraform & Ansible          | Infrastructure as Code           | API Security Testing            |
-
-
-## Technology Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -42,29 +32,8 @@ DevOps Engineer with expertise in **Kubernetes**, **AWS**, and **cloud-native se
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-## Professional Achievements
-
-
-- **AWS Certifications**
-  - [Solutions Architect Associate](https://www.credly.com/badges/015ecab6-7110-4eb8-a07a-ef88d61bdfbc/public_url)
-  - [Cloud Practitioner](https://www.credly.com/badges/247ced3f-9c92-433c-92aa-c8895eb59d5f/public_url)
-
-
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadagojushiva&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadagojushiva&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" height="170"/>
-</div>
-
-
-## Professional Contact
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shiva-gadagoju/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gadagojushiva00@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
